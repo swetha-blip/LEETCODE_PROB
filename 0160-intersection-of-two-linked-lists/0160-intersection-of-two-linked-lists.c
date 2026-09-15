@@ -1,4 +1,3 @@
-
 struct ListNode *getIntersectionNode(struct ListNode *headA, struct ListNode *headB) {
     struct ListNode*temp1=headA;
     struct ListNode*temp2=headB;
@@ -8,12 +7,12 @@ struct ListNode *getIntersectionNode(struct ListNode *headA, struct ListNode *he
         temp1=headB;
         else
         temp1=temp1->next;
-        if(temp2!=NULL)
-        temp2=temp2->next;
+        if(temp2==NULL)
+         temp2=headA;
         else
-        temp2=headA;
+        temp2=temp2->next;
       }
-      return temp1;
+      return temp2;
 }
 
 
