@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/0053-maximum-subarray) |
+| [3525-find-x-value-of-array-ii](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/3525-find-x-value-of-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/0226-invert-binary-tree) |
+## Math
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/3525-find-x-value-of-array-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
