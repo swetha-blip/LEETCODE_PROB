@@ -61,4 +61,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
