@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/0053-maximum-subarray) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3525-find-x-value-of-array-ii](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/3525-find-x-value-of-array-ii) |
 ## Binary Search
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/0160-intersection-of-two-linked-lists) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Linked List
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
