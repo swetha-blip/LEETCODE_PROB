@@ -116,5 +116,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/0584-find-customer-referee) |
+| [1075-project-employees-i](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
