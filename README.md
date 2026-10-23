@@ -112,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/swetha-blip/LEETCODE_PROB/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
